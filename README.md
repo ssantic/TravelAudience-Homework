@@ -19,8 +19,8 @@ modeling and accuracy metric calculation are performed. The cells are meant to b
 in sequence. The notebook requires the `events.csv` and `iata.csv` data files to work.
 
 
-requirement.txt
----------------
+requirements.txt
+----------------
 
 This file lists all the dependencies needed for running the notebook. They can be installed
 from the command line:
